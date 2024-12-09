@@ -1,4 +1,4 @@
-# Tomato-Leaf-Disease-Prediction-Using-VGG16
+# Tomato Leaf Disease Prediction Using VGG16
 
 # Problem Statement :
 Manual plant disease detection methods are time-consuming and
@@ -22,7 +22,10 @@ It consist of around 23000 images of (256,256) size.
 Train data : around 18000 images
 Test data : around 5000 images 
 
-# VGG16 model Architechture :
+# VGG16 model Architecture :
 
 ![image](https://github.com/user-attachments/assets/ae613bf7-9165-4a1d-9c4c-a80acbde8adc)
+
+![image](https://github.com/user-attachments/assets/5482f640-e3c9-4f3c-8417-41f1d52baa65)
+
 
